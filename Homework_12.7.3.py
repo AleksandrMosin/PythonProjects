@@ -9,6 +9,3 @@ for key in per_cent.values():
 print(deposit)
 max_deposit = max(deposit)
 print('Максимальная сумма, которую вы можете заработать — ' + str(max_deposit))
-
-
-
